@@ -5,8 +5,8 @@ import lightgbm as lgb
 from geopy.distance import geodesic
 
 # --- Load model and encoders
-model = joblib.load("fraud_detector.jb")
-encoder = joblib.load("label_enc.jb")
+model = joblib.load("Code/fraud_detector.jb")
+encoder = joblib.load("Code/label_enc.jb")
 
 
 def haversine(lat1, lon1, lat2, lon2):
