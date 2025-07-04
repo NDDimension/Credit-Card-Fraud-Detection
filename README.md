@@ -6,6 +6,7 @@ This app is trained on the dataset provided and is for **educational/demo use on
 
 > ***Secure transactions, one prediction at a time.***
 > https://credit-card-fraud-detection-nddimension.streamlit.app/
+
 Fraud costs billions every year. The **Credit Card Fraud Detection System** empowers you to **identify potentially fraudulent transactions using AI**. Whether you're a data scientist, developer, or curious user—our model helps you **detect anomalies in payment data** with machine learning.
 
 
