@@ -1,0 +1,21 @@
+[project]
+name = "credit-card-fraud-detection-using-lightgbm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas",
+    "numpy",
+    "lightgbm",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    'imblearn',
+    "joblib",
+    "streamlit",
+    "imbalanced-learn>=0.13.0",
+    "ipykernel>=6.29.5",
+    "pip>=25.1.1",
+    "geopy>=2.4.1",
+]
