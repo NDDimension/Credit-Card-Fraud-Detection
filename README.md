@@ -108,7 +108,10 @@ cd Credit-Card-Fraud-Detection/Code
 ```
 
 2️⃣ **Download and prepare your dataset**
-- Use your CSV data with transaction details. (https://drive.google.com/file/d/1118Jwzj51KpXd0T5jiebn9ykCygwbkhn/view)
+- Use your CSV data with transaction details.
+```link
+https://drive.google.com/file/d/1118Jwzj51KpXd0T5jiebn9ykCygwbkhn/view
+```
 
 - Example columns used: `merchant`, `category`, `amount`, `cc_num`, `geolocation`, `timestamp`, etc.
 
